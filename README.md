@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gegarin-sagolsem-844a53318" target="_blank">
+<a href="https://www.linkedin.com/in/gegarin-sagolsem-844a53318/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=GegarinSagolsem&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
@@ -57,12 +57,12 @@ fun_fact: "Ships side projects faster than most people ship excuses 🚀"
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GegarinSagolsem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GegarinSagolsem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=GegarinSagolsem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GegarinSagolsem&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GegarinSagolsem&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=GegarinSagolsem&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
