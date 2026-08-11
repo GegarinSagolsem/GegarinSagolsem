@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Hi,%20I'm%20Gegarin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20CS%20Graduate%20%7C%20Novelist&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=550&lines=Backend+%2F+Full-Stack+Developer;C%23+%2F+ASP.NET+Core+%2B+PostgreSQL;Building+production-ready+web+apps;Also+writing+novels+in+my+spare+time+📖" alt="Typing SVG" />
+<h3 align="center">💻 Backend / Full-Stack Developer &nbsp;•&nbsp; C# / ASP.NET Core + PostgreSQL &nbsp;•&nbsp; 📖 Novelist on the side</h3>
 
 <br/>
 
