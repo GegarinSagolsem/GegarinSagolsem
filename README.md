@@ -73,8 +73,6 @@ fun_fact: "Ships side projects faster than most people ship excuses 🚀"
 
 ## 🚀 Featured Work
 
-> Pinning specific repos on your GitHub profile (via the "Customize your pins" option) will look sharper here than a static list — but here's a placeholder structure you can adapt:
-
 <div align="center">
 
 | Project | Description | Stack |
