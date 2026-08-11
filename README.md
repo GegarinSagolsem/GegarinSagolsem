@@ -28,12 +28,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GegarinSagolsem&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GegarinSagolsem&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GegarinSagolsem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GegarinSagolsem&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GegarinSagolsem&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=GegarinSagolsem&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -41,11 +41,8 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/gegarin-sagolsem-844a53318" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
