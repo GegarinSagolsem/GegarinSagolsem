@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Gegarin 👋</h1>
+<h3 align="center">A Computer Science graduate exploring the world of software</h3>
 
-<!--
-**GegarinSagolsem/GegarinSagolsem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Recent+CS+Graduate;Lifelong+Learner;Building+Cool+Things" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🎓 Recently graduated with a degree in **Computer Science**
+- 🌱 Currently learning new tools & technologies
+- 💡 Interested in problem solving, software development, and building projects that matter
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: Always up for a good challenge
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GegarinSagolsem&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GegarinSagolsem&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GegarinSagolsem&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GegarinSagolsem&color=6C63FF&style=flat" alt="Profile views" />
+</p>
