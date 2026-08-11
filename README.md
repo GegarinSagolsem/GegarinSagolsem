@@ -1,54 +1,91 @@
-<h1 align="center">Hi, I'm Gegarin 👋</h1>
-<h3 align="center">A Computer Science graduate exploring the world of software</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Recent+CS+Graduate;Lifelong+Learner;Building+Cool+Things" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Hi,%20I'm%20Gegarin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20CS%20Graduate%20%7C%20Novelist&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=550&lines=Backend+%2F+Full-Stack+Developer;C%23+%2F+ASP.NET+Core+%2B+PostgreSQL;Building+production-ready+web+apps;Also+writing+novels+in+my+spare+time+📖" alt="Typing SVG" />
 
-### 🧑‍💻 About Me
+<br/>
 
-- 🎓 Recently graduated with a degree in **Computer Science**
-- 🌱 Currently learning new tools & technologies
-- 💡 Interested in problem solving, software development, and building projects that matter
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: Always up for a good challenge
+<a href="https://www.linkedin.com/in/gegarin-sagolsem-844a53318" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=GegarinSagolsem&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github" />
-</p>
+## 🧑‍💻 About Me
 
----
+```yaml
+name: Gegarin Sagolsem
+role: Computer Science Graduate → Software Developer
+based_in: India
+currently:
+  - 🎯 Job hunting & taking on freelance dev work
+  - 🛠️ Building production-ready full-stack applications
+  - 📖 Writing fiction on the side, under the pen name "Forgetful_sloth"
+interests:
+  - Backend architecture & clean API design
+  - Systems programming
+  - Solving real problems with practical software
+fun_fact: "Ships side projects faster than most people ship excuses 🚀"
+```
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=GegarinSagolsem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GegarinSagolsem&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GegarinSagolsem&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,html,css" />
 
----
+**Frameworks & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,nodejs" />
 
-### 🌐 Connect with Me
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gegarin-sagolsem-844a53318" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GegarinSagolsem&color=6C63FF&style=flat" alt="Profile views" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GegarinSagolsem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GegarinSagolsem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GegarinSagolsem&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GegarinSagolsem&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%"/>
+</div>
+
+<br/>
+
+## 🚀 Featured Work
+
+> Pinning specific repos on your GitHub profile (via the "Customize your pins" option) will look sharper here than a static list — but here's a placeholder structure you can adapt:
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| **LotteryWeb** | Production-ready lottery results & ticketing platform | ASP.NET Core, EF Core, PostgreSQL |
+| **Shougun** | Mobile Legends diamond top-up reseller platform | Web / Payments |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</div>
